@@ -1,6 +1,19 @@
 ### Hello, I'm Xihao 😄
 
-Currently an undergraduate student majoring in Computer Science at the National University of Singapore.
+Penultimate undergraduate student majoring in Computer Science at the National University of Singapore.
+
+
+### ✨ Interests
+
+- Artificial Intelligence Planning and Decision Making
+- Machine Learning
+- Data Science
+
+
+### 🔗 Links
+
+- [LinkedIn](https://www.linkedin.com/in/xihaochen)
+- [Resume](xihao_resume_5.0_double.pdf)
 
 
 <!--
