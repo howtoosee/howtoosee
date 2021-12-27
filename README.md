@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello, I'm Xihao 😄
+
+Currently an undergraduate student majoring in Computer Science at the National University of Singapore.
+
 
 <!--
 **howtoosee/howtoosee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
