@@ -1,20 +1,19 @@
-### Hello, I'm Xihao 😄
+# Hello, I'm Xihao 😄
 
-Penultimate undergraduate student majoring in Computer Science at the National University of Singapore.
+I'm a final year undergraduate student majoring in Computer Science at the National University of Singapore.
+I also have minors in Statistics and Business Management.
 
-
-### ✨ Interests
+## ✨ Interests
 
 - Artificial Intelligence Planning and Decision Making
 - Machine Learning
 - Data Science
+- Information Retrieval
 
-
-### 🔗 Links
+## 🔗 Links
 
 - [LinkedIn](https://www.linkedin.com/in/xihaochen)
-- [Resume](xihao_resume_5.0_double.pdf)
-
+- [Resume](xihao_resume.pdf)
 
 <!--
 **howtoosee/howtoosee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
