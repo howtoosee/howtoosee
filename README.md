@@ -1,14 +1,11 @@
 # Hello, I'm Xihao 😄
 
-I'm a final year undergraduate student majoring in Computer Science at the National University of Singapore.
-I also have minors in Statistics and Business Management.
+I'm a first-year Ph.D. student at the National University of Singapore.
 
 ## ✨ Interests
 
-- Artificial Intelligence Planning and Decision Making
-- Machine Learning
-- Data Science
-- Information Retrieval
+- Applied Machine Learning in Multimedia and Multimodal settings
+- Information Retrieval and Data Mining
 
 ## 🔗 Links
 
