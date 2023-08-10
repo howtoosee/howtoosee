@@ -10,7 +10,7 @@ I'm a first-year Ph.D. student at the National University of Singapore.
 ## 🔗 Links
 
 - [LinkedIn](https://www.linkedin.com/in/xihaochen)
-- [Resume](xihao_resume.pdf)
+- [Resume](Chen Xihao-Resume.pdf)
 
 <!--
 **howtoosee/howtoosee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
