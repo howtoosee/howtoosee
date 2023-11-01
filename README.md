@@ -1,11 +1,16 @@
 # Hello, I'm Xihao 😄
 
-I'm a first-year Ph.D. student at the National University of Singapore.
+A first-year Ph.D. student in computer science affliated with the [Integrative Sciences and Engineering Programme (ISEP)](https://isep.nus.edu.sg/) and at the [School of Computing](https://www.comp.nus.edu.sg/), National University of Singapore.
+I'm supervised by Professor [Roger Zimmermann](https://www.comp.nus.edu.sg/cs/people/rogerz/) at the Media Management Research Lab.
 
-## ✨ Interests
+Prior to my Ph.D. studies, I obtained my Bachelor of Computing (Computer Science) with Honours of the Highest Distinction at the School of Computing, National University of Singapore.
+My undergraduate focus areas were *Artificial Intelligence* and *Database Systems*.
+My dissertation, [Multi-Modal Entity Resolution](https://github.com/howtoosee/CP4101_Multi_Modal_Entity_Resolution) was supervised by Professor [Tan Kian Lee](https://www.comp.nus.edu.sg/cs/people/tankl/).
 
-- Applied Machine Learning in Multimedia and Multimodal settings
-- Information Retrieval and Data Mining
+## ✨ Research Interests
+
+- Multi-modal information retrieval.
+- Natural language-based video localisation.
 
 ## 🔗 Links
 
