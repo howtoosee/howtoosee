@@ -1,7 +1,7 @@
 # Hello, I'm Xihao 😄
 
-A first-year Ph.D. student in computer science affiliated with the [Integrative Sciences and Engineering Programme (ISEP)](https://isep.nus.edu.sg/) and at the [School of Computing](https://www.comp.nus.edu.sg/), National University of Singapore.
-I'm supervised by Professor [Roger Zimmermann](https://www.comp.nus.edu.sg/cs/people/rogerz/) at the Media Management Research Lab.
+A Ph.D. candidate in computer science affiliated with the [Integrative Sciences and Engineering Programme (ISEP)](https://isep.nus.edu.sg/) and at the [School of Computing](https://www.comp.nus.edu.sg/), National University of Singapore.
+I'm advised by Professor [Roger Zimmermann](https://www.comp.nus.edu.sg/cs/people/rogerz/) at the Media Management Research Lab.
 
 Prior to my Ph.D. studies, I obtained my Bachelor of Computing (Computer Science) with Honours of the Highest Distinction at the School of Computing, National University of Singapore.
 My undergraduate focus areas were *Artificial Intelligence* and *Database Systems*.
@@ -9,8 +9,9 @@ My dissertation, [Multi-Modal Entity Resolution](https://github.com/howtoosee/CP
 
 ## ✨ Research Interests
 
+- Efficiency in large vision-language models.
 - Multi-modal information retrieval.
-- 
+
 
 ## 🔗 Links
 
